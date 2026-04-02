@@ -6,3 +6,8 @@ h1 {
   color: navy;
   margin-left: 20px;
 }
+
+img.mainprofile{
+  height: 30%;
+  width: 30%;
+}
