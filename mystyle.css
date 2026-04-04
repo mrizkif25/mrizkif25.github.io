@@ -8,6 +8,7 @@ h1 {
 }
 
 img.mainprofile{
-  height: 30%;
-  width: 30%;
+  object-fit: coverl
+  width: 100%;
+  height: 250px;
 }
